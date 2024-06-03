@@ -14,3 +14,5 @@ gies using tools such as sklearn, Keras, and PyTorch. Finally, embeddings, model
 be model and train.
 By pursuing these objectives and tasks, the project aims to empower healthcare professionals with a
 tool that efficiently assesses antibiotic resistance in bacteria.
+
+https://www.overleaf.com/9697643521ykrrmzxkgktf#8dbd10
