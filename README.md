@@ -15,4 +15,4 @@ be model and train.
 By pursuing these objectives and tasks, the project aims to empower healthcare professionals with a
 tool that efficiently assesses antibiotic resistance in bacteria.
 
-Link overleaf (escrita da tese): https://www.overleaf.com/read/bgytmygpkdgq#a89254
+Link overleaf (escrita da tese): https://www.overleaf.com/read/zgmmqtcfdymq#c2dcdb
