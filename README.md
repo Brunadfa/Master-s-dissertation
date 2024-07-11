@@ -16,4 +16,5 @@ By pursuing these objectives and tasks, the project aims to empower healthcare p
 tool that efficiently assesses antibiotic resistance in bacteria.
 
 Link overleaf (escrita da tese): https://www.overleaf.com/read/zgmmqtcfdymq#c2dcdb
+
 The images were taken from the following website: https://agar.neurosys.com/
