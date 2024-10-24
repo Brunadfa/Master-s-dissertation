@@ -12,6 +12,5 @@ The first step will comprise data pre-processing to prepare the dataset:
 The following tasks will be dedicated to classifying species and strains using tools such as sklearn, Keras and PyTorch. Finally, embeddings, models and architectures will be modelled and trained. 
 By pursuing these objectives and tasks, the project aims to empower health professionals with a tool that effectively assesses antibiotic resistance in bacteria.
 
-Link overleaf (escrita da tese): https://www.overleaf.com/9697643521ykrrmzxkgktf#8dbd10
 
 The images were taken from the following website: https://agar.neurosys.com/
