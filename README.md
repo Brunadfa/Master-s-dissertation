@@ -13,4 +13,4 @@ The following tasks will be dedicated to classifying species and strains using t
 By pursuing these objectives and tasks, the project aims to empower health professionals with a tool that effectively assesses antibiotic resistance in bacteria.
 
 
-The images were taken from the following website: https://agar.neurosys.com/
+The AGAR dataset images were taken from the following website: https://agar.neurosys.com/
